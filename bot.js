@@ -27,4 +27,4 @@ client.on('ready', () => {
 
 })
 
-client.login("NTIzODIyMDIxNzEzMzMwMTgy.Dvf1AQ.8K5NH1ZIiHxiaxmop2JOTZjbfWQ")
+client.login(process.env.BOT_TOKEN)
